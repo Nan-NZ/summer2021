@@ -1,0 +1,10 @@
+body{
+
+  /*background-color: yellow;*/
+  background: red url("static/images/bg.jpg") no-repeat;
+} 
+
+p {
+  color: pink;
+  text-align: center;
+}

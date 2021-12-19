@@ -124,3 +124,5 @@ STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'jordan', 'static'),
     os.path.join(BASE_DIR, 'boot'),
 ]
+
+print ("static path", os.path.join(BASE_DIR, 'jordan', 'static'))
